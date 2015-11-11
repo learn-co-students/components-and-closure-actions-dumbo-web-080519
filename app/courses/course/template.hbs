@@ -1,0 +1,5 @@
+<h1>{{model.name}}</h1>
+{{mark-as-featured
+  name=model.name
+  featured=model.featured
+  notify=(action 'handleFeatured')}}

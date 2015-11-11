@@ -1,0 +1,9 @@
+<div class="item">
+  {{#if featured}}
+    {{name}} is featured
+  {{else}}
+    {{name}} is not featured
+  {{/if}}
+</div>
+
+<button {{action 'toggleFeatured'}} class='item-toggle'>Press to toggle</button>
