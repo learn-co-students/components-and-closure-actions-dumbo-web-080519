@@ -6,7 +6,7 @@ import {
 } from 'ember-mocha';
 
 describeModule(
-  'controller:course',
+  'controller:courses.course',
   'CourseController',
   {
   },
