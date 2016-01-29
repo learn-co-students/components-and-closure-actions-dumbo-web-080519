@@ -7,4 +7,4 @@ The routes, models, and templates have been created for you. You'll need to fini
 
 When you're done with the tests, visit `http://localhost:4200/courses/1`
 
-<a href='https://learn.co/lessons/components-and-closure-actions' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/components-and-closure-actions' title='Components and Closure functions'>Components and Closure functions</a> on Learn.co and start learning to code for free.</p>
